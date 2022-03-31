@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ClientSentenceFrame.java&apos; to &apos;TCPClientSentence/src&apos;&#x0D;&#x0A;- Original project: &apos;demotcpclientdate&apos;&#x0D;&#x0A;- Destination element: &apos;TCPClientSentence/src&apos;&#x0D;&#x0A;- Original element: &apos;ClientSentenceFrame.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=TCPClientSentence/src" element1="/src&lt;{ClientSentenceFrame.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1648717841485" units="1" version="1.0"/>
+</session>

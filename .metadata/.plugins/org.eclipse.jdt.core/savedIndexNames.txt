@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/Users/shiwwinzahra/Downloads/Sem 2/DAD/bitp3123-ws/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+581445365.index
+332845118.index
+4206268285.index
+48986420.index
+3089965723.index
+180046272.index
